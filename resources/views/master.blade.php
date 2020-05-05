@@ -115,7 +115,7 @@
     </nav>
     <!-- Page Content  -->
     <nav class="navbar navbar-expand-lg nav-top">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="{{ env('APP_URL') }}/">
             <img src="/img/nav/logo.svg" />
         </a>
         <ul class="nav navbar-nav mr-auto posicion">
