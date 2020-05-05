@@ -13,8 +13,8 @@
 
 
 -- Volcando estructura de base de datos para ego
-CREATE DATABASE IF NOT EXISTS `ego` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `ego`;
+CREATE DATABASE IF NOT EXISTS `test` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `test`;
 
 -- Volcando estructura para tabla ego.auto
 CREATE TABLE IF NOT EXISTS `auto` (
