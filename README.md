@@ -10,12 +10,12 @@
 ## Configurar proyecto
 
 
-1- Importar Base de datos test.sql<br>
-2- Renombrar en archivo .env: DB_DATABASE=test
+- Importar Base de datos test.sql<br>
+- Renombrar en archivo .env: DB_DATABASE=test
     
     composer install
 
-4- Ir a la carpeta public ( <b>cd: public</b> )<br>
+- Ir a la carpeta public ( <b>cd: public</b> )<br>
 
      npm install
     
